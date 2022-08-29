@@ -8,15 +8,15 @@ links:
     url: "mailto:manni175@msu.edu"
   - label: GitHub
     url: "https://github.com/nbmanning"
-  - label: Twitter
-    url: "https://twitter.com/"
+  # - label: Twitter
+  #   url: "https://twitter.com/nbmann_"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-I'm an MS student at the [Center for Systems Integration & Sustainability](https://www.canr.msu.edu/csis/) at Michigan State University interested in using satellite data to measure changes in environmental systems. 
+Welcome! I'm an MS student and aspiring remote sensing scientist at the [Center for Systems Integration & Sustainability](https://www.canr.msu.edu/csis/) at Michigan State University interested in using satellite data to measure changes in environmental systems. 
   
 Currently, I study the interconnected effects of natural disasters across the globe using the [metacoupling framework](https://www.canr.msu.edu/telecoupling/metacoupling/#:~:text=The%20telecoupling%20framework%20allows%20researchers%20to%20build%20models,fisheries%20management%2C%20biodiversity%20conservation%2C%20land%20use%20and%20more.). 
   
