@@ -3,7 +3,7 @@ title: "Nicholas (Nick) Manning"
 image: "nick_night.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/nicholas-b-manning/"
   - label: Email
     url: "mailto:manni175@msu.edu"
   - label: GitHub
