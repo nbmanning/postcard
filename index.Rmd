@@ -16,30 +16,45 @@ output:
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+I'm an MS student at the [Center for Systems Integration & Sustainability](https://www.canr.msu.edu/csis/) at Michigan State University interested in using satellite data to measure changes in environmental systems. 
+  
+Currently, I study the interconnected effects of natural disasters across the globe using the [metacoupling framework](https://www.canr.msu.edu/telecoupling/metacoupling/#:~:text=The%20telecoupling%20framework%20allows%20researchers%20to%20build%20models,fisheries%20management%2C%20biodiversity%20conservation%2C%20land%20use%20and%20more.). 
+  
+I was previously a member of the [Assal Biogeography & Landscape Dynamics Lab](https://assallab.org/) at Kent State University where I started my journey through earth & environmental data science. 
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**Michigan State University** | East Lansing, MI
 
-M.B.A. | August 2014 - June 2015
+M.S. | August 2021 - Present
 
-**The Juilliard School** | New York, NY
+**Kent State University** | Kent, OH
 
-B.F.A. in Music Performance | August 2005 - May 2009
+B.S. Geology | 2015 - 2019
+B.A. Environmental Studies | 2015-2019 
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Michigan State University** | Graduate Research Assistant | 2021 - Present
 
-**Cercle** | Producer | August 2018 - Present
+**Kent State University** | Biogeography Lab Technician | 2019 - 2021
 
-**National Public Radio** | Producer | May 2015 - July 2018
+**Argonne National Lab** | Student Undergraduate Laboratory Intern | 2020
 
-**NME Magazine** | Editor | July 2014 - July 2016
+**Kent State University** | Remote Sensing Undergraduate Research Assistant | 2018-2019
 
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+
+
+
+
+
+
+##
+
+
+
+
+
+
+
+This site was made using the 'postcards' package in R. Photo Credits: [Alex Benitez](https://www.alex-benitez.com/home)
