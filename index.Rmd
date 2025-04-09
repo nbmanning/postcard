@@ -1,6 +1,6 @@
 ---
 title: "Nicholas (Nick) Manning"
-image: "nick_night.jpg"
+image: "headshot2025.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/nicholas-b-manning/"
@@ -60,4 +60,4 @@ B.A. Environmental Studies | 2015-2019
 
 
 
-This site was made using the 'postcards' package in R. Photo Credits: [Alex Benitez](https://www.alex-benitez.com/home)
+This site was made using the 'postcards' package in R. 
