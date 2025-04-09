@@ -60,8 +60,5 @@ B.A. Environmental Studies | 2015-2019
 
 
 
-<<<<<<< HEAD
 This site was made using the 'postcards' package in R. 
-=======
-This site was made using the 'postcards' package in R. Photo Credits: [Alex Benitez](https://www.alex-benitez.com/home)
->>>>>>> 21975e84f954c5c9cae7c72a7626f125c91c927a
+
