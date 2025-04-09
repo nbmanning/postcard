@@ -17,7 +17,7 @@ output:
  
 ## Bio
 
-Welcome! I'm a PhD student and aspiring remote sensing scientist at the [Center for Systems Integration & Sustainability](https://www.canr.msu.edu/csis/) at Michigan State University interested in using satellite data to measure changes in environmental systems. 
+Welcome! I'm a PhD student and aspiring remote sensing scientist at the [Center for Systems Integration & Sustainability](https://www.canr.msu.edu/csis/) at Michigan State University interested in using geospatial and socioeconomic data to measure changes in environmental systems. 
   
 Currently, I study the interconnected effects of natural disasters across the globe using the [metacoupling framework](https://www.canr.msu.edu/telecoupling/metacoupling/#:~:text=The%20telecoupling%20framework%20allows%20researchers%20to%20build%20models,fisheries%20management%2C%20biodiversity%20conservation%2C%20land%20use%20and%20more.). 
   
@@ -60,4 +60,8 @@ B.A. Environmental Studies | 2015-2019
 
 
 
+<<<<<<< HEAD
 This site was made using the 'postcards' package in R. 
+=======
+This site was made using the 'postcards' package in R. Photo Credits: [Alex Benitez](https://www.alex-benitez.com/home)
+>>>>>>> 21975e84f954c5c9cae7c72a7626f125c91c927a
