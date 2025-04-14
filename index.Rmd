@@ -8,8 +8,8 @@ links:
     url: "mailto:manni175@msu.edu"
   - label: GitHub
     url: "https://github.com/nbmanning"
-  # - label: Twitter
-  #   url: "https://twitter.com/nbmann_"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Nicholas-Manning-4?ev=hdr_xprf"
 output:
   #postcards::solana
   postcards::trestles
